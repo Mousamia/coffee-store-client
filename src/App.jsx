@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       
-      <h1 className='text-purple-700 text-4xl'>Coffee Shop</h1>
+      <h1 className='text-purple-700 text-4xl font-bold'>Coffee Shop</h1>
       
     </>
   )
